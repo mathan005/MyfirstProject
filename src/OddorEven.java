@@ -24,7 +24,11 @@ public class OddorEven {
 		}
 		
 		
+			
+		}
+	
 
-	}
-
+public void printData() {
+	System.out.println("Data");
+}
 }
