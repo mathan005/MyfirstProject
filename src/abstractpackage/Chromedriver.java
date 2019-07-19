@@ -1,6 +1,6 @@
 package abstractpackage;
 
-public abstract class Chromedriver extends Webdriver
+public abstract class Chromedriver 
 {
 	
 
