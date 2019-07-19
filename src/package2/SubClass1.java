@@ -1,4 +1,4 @@
-package abstractpackage;
+package package2;
 
 public class SubClass1 extends Superclass1  {
 	

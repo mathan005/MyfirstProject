@@ -1,4 +1,4 @@
-package abstractpackage;
+package package2;
 
 public abstract class Webdriver {
 	

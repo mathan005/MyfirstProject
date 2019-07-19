@@ -1,4 +1,4 @@
-package abstractpackage;
+package package2;
 
 public class Firefoxdriver extends Webdriver{
 
